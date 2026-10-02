@@ -1,0 +1,10 @@
+{
+  "name": "Zigsy",
+  "description": "The New Luxury Standard - Premium fashion rental marketplace for Gen Z. Rent, wear, and repeat luxury designer pieces.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
