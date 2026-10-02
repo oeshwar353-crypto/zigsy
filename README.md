@@ -1,24 +1,79 @@
-# zigsy
+# ZIGSY 👗
 
-A full-stack fashion rental marketplace featuring social discovery, student-to-student rentals, payments, and logistics.
+### Gen Z Fashion Discovery & Rental Marketplace
 
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Zigsy is a social-first fashion discovery and rental platform designed around how Gen Z discovers, explores, and accesses fashion.
 
-# Run and deploy your AI Studio app
+Instead of buying an outfit for every occasion, Zigsy enables users to discover unique fashion pieces and rent them through a student-friendly marketplace experience.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/1af767f5-f596-473a-8c04-854007568d44
+## ✨ What is Zigsy?
 
-## Run Locally
+Fashion discovery is increasingly driven by social content, trends, creators, and visual inspiration.
 
-**Prerequisites:**  Node.js
+Zigsy brings **fashion discovery + rental commerce** into one platform.
 
+Users can:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 🔍 Discover trending fashion
+- 👗 Explore outfits and fashion pieces
+- 🏷️ Rent outfits for events and occasions
+- 🤝 List fashion items for others to rent
+- 💳 Make secure rental payments
+- 📍 Manage rental logistics
+- ❤️ Save interesting fashion pieces
+- 📱 Explore fashion through a social-first experience
+
+---
+
+## 🎯 Vision
+
+> **Make fashion more accessible, discoverable, and circular for the next generation.**
+
+Zigsy aims to move fashion discovery from traditional shopping toward a more social, accessible, and rental-driven experience.
+
+---
+
+## 🚀 Core Features
+
+### 🛍️ Fashion Discovery
+
+Explore fashion products through a visual, discovery-first interface.
+
+### 👗 Rental Marketplace
+
+Users can list fashion items and make them available for rental.
+
+### 🔥 Trending Fashion
+
+Discover fashion pieces based on trends and social discovery.
+
+### 💳 Payments
+
+Integrated payment infrastructure for rental transactions.
+
+### 📍 Logistics
+
+Location-aware rental workflows for managing item discovery and delivery.
+
+### 👤 User Profiles
+
+Users can manage their listings, rentals, saved items, and activity.
+
+### 🔐 Authentication
+
+Secure user authentication and account management.
+
+---
+
+## 🧠 Product Concept
+
+Zigsy is designed around three major layers:
+
+```text
+DISCOVER
+   ↓
+EXPLORE
+   ↓
+RENT
