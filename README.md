@@ -1,3 +1,7 @@
+# zigsy
+
+A full-stack fashion rental marketplace featuring social discovery, student-to-student rentals, payments, and logistics.
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
